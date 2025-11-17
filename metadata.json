@@ -1,0 +1,5 @@
+{
+  "name": "Generator Kisi-Kisi Soal",
+  "description": "An application to automatically generate exam blueprints (kisi-kisi) and corresponding questions using AI. Users can input curriculum details, generate structured blueprints, create questions, and export the results to PDF or Word formats.",
+  "requestFramePermissions": []
+}
